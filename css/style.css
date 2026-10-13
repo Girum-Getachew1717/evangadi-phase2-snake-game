@@ -1,3 +1,29 @@
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 8px;
+}
+
+.score {
+    font-size: 22px;
+    margin: 8px 0;
+}
+
+.hint {
+    color: #bbb;
+    margin-bottom: 16px;
+}
+
 .canvas {
     background-color: #000;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #444;
 }
